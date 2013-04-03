@@ -16,4 +16,4 @@ Scotland is hillier than England.
 Wales
 -----
 
-Wales is hillier than England, but not as hilly as Scotland.
+Wales is hillier than England, but not quite as hilly as Scotland.
